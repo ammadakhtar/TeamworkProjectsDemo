@@ -1,0 +1,23 @@
+PODS:
+  - Alamofire (4.5.0)
+  - BRYXBanner (0.7.3)
+  - RappleProgressHUD (2.3.1)
+  - XLActionController/Core (3.0.1)
+  - XLActionController/Youtube (3.0.1):
+    - XLActionController/Core
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - BRYXBanner
+  - RappleProgressHUD
+  - XLActionController/Youtube
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  BRYXBanner: bd26a91cb8a5826a8bc7687891043d287dd3ee53
+  RappleProgressHUD: 3c776b1ac0a05e7d9b0165d819162581902d23a1
+  XLActionController: 57fe0ce1642e2eed971b188b490762345fdbf963
+
+PODFILE CHECKSUM: 58802dd5bf018c46ec801d7d5a77a5fea0b7b504
+
+COCOAPODS: 1.2.0
